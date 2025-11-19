@@ -34,7 +34,17 @@ Each row corresponds to one county-day:
 | `ppt`  | Daily precipitation (mm/day) |
 | `tmin` | Minimum temperature (°C) |
 | `tmax` | Maximum temperature (°C) |
-### **5. Data Sources (Attribution)
+
+### **5. Contact
+
+For questions, feel free to open an issue or contact:
+Zhangchi (Bruce) Cai
+UW–Madison, Agricultural & Applied Economics
+zcai98@wisc.edu
+
+
+
+### **6. Data Sources (Attribution)
 
 This project uses original climate data from:
 
