@@ -56,7 +56,7 @@ You must cite PRISM when using data derived from PRISM.
 If you use the county-level processed dataset created by this repository, please cite:
 
 Cai (2025). PRISM County-Level Weather Dataset (1990–2024). GitHub Repository.
-URL: https://github.com/YOUR_USERNAME/prism-county-weather
+URL: https://github.com/BruceCai98/prism-weather-county
 ---
 
 
